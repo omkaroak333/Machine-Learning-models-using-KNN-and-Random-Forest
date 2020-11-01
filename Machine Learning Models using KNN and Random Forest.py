@@ -1,5 +1,3 @@
-# Importing required modules and libraries
-
 import pandas_datareader.data as web
 import quandl
 quandl.ApiConfig.api_key="Insert_your_key"
