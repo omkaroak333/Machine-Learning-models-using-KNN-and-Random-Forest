@@ -1,7 +1,3 @@
-### Midterm Project 2
-### Project by : Omkar Kulkarni
-### GT ID : 903467583
-
 
 ###The entire code will require 20 - 25 mins to run
 ## I have no used any custom paths in this code##
@@ -12,7 +8,7 @@
 
 import pandas_datareader.data as web
 import quandl
-quandl.ApiConfig.api_key="UdGDq5sxbfjznXz_RTkd"
+quandl.ApiConfig.api_key="Insert_your_key"
 import pandas
 import math
 import numpy
