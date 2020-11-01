@@ -1,10 +1,4 @@
-
-###The entire code will require 20 - 25 mins to run
-## I have no used any custom paths in this code##
-
-##Just make sure that all the files are located inside your default path##
-## The ZIP file required to be unziped and the unziped folder must be in the default path##
-
+# Importing required modules and libraries
 
 import pandas_datareader.data as web
 import quandl
